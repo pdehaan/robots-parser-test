@@ -1,0 +1,24 @@
+{
+  "name": "robots-parser-test",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/robots-parser-test/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "robots-parser": "^2.1.1"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/robots-parser-test#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/robots-parser-test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
